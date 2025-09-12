@@ -1,4 +1,4 @@
-# 🚦 AI Traffic Sign Recognition with Gemini 2.0 Flash API
+# 🚦 AI Traffic Sign Recognition With Gemini 2.0 Flash API
 
 This project is an **AI-powered Traffic Sign Recognition Web App** that uses **Google’s Gemini 2.0 Flash API** to identify traffic signs from uploaded images and provide driving instructions.
 
