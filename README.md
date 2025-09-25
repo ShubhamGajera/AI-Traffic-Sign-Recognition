@@ -6,7 +6,7 @@ This project is an **AI-powered Traffic Sign Recognition Web App** that uses **G
 
 ## **📌 Features**
 
-1. **Upload a traffic sign image** via a simple web interface.
+1. **Upload a traffic sign image** or Video via a simple web interface.
 2. **Automatic AI detection**:
 
    * If the image is **not a traffic sign**, shows an **error message**.
