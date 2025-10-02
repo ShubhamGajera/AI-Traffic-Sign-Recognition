@@ -9,7 +9,7 @@ This project is an **AI-powered Traffic Sign Recognition Web App** that uses **G
 1. **Upload a traffic sign image** or Video via a simple web interface.
 2. **Automatic AI detection**:
 
-   * If the image is **not a traffic sign**, shows an **error message**.
+   * If the image or Video is **not a traffic sign**, shows an **error message**.
    * If the image **is a valid sign**, provides:
 
      * **Sign name** (e.g., Stop, Yield, Speed Limit 50)
