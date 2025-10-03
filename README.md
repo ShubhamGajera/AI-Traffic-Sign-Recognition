@@ -23,7 +23,7 @@ This project is an **AI-powered Traffic Sign Recognition Web App** that uses **G
 ## **🛠️ Tech Stack**
 
 * **Python 3.x**
-* **Gradio** – For creating the web interface
+* **Gradio** – For Creating the web interface
 * **Pillow (PIL)** – For image handling
 * **Requests** – For sending requests to Gemini API
 * **Gemini 2.0 Flash API** – For AI-powered traffic sign analysis
